@@ -1,0 +1,3 @@
+username = "admin"  # ID FOR SEPERATE ACC FOR AUTOMATED SYSTEM
+password = "admin"  # PASS FOR SEPERATE ACC FOR AUTOMATED SYSTEM
+link = "http://docker:32774"  # LINK OF THE APP TO CONNECT TO
